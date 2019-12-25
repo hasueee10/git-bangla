@@ -10,3 +10,9 @@ class Hello {
 
 let sayWelcome = new Hello("Hasu");
 sayWelcome.greeting();
+
+//added in branchB
+
+let sqrt = function(x) {
+  return x * x;
+};
