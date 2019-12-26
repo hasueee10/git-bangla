@@ -3,17 +3,8 @@ class Hello {
     this.name = name;
   }
 
-  greeting() {
-    console.log("Welcome " + this.name);
-  }
-
-  //added in branchA
-  sayHi() {
-    console.log("Hi! " + this.name);
-  }
-
-  sayHelo() {
-    console.log("Hello! " + this.name);
+  message() {
+    console.log("Hurray!! Now we are able to contribute to open source.");
   }
 }
 
