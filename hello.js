@@ -8,8 +8,8 @@ class Hello {
   }
 
   //added in branchA
-  sayHello() {
-    console.log("Hello! " + this.name);
+  sayHi() {
+    console.log("Hi! " + this.name);
   }
 }
 
