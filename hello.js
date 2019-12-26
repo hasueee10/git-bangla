@@ -11,6 +11,10 @@ class Hello {
   sayHi() {
     console.log("Hi! " + this.name);
   }
+
+  sayHelo() {
+    console.log("Hello! " + this.name);
+  }
 }
 
 let sayWelcome = new Hello("Hasu");
